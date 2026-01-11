@@ -1,19 +1,24 @@
 <p align="center">
-  <img src="assets/img/My project.png" width="160" alt="Shekhar Portfolio Logo" />
+  <img src="assets/img/My project.png" width="180" alt="Shekhar Sharma Portfolio Logo" />
 </p>
 
-<h1 align="center">✨ Shekhar Sharma — Portfolio Website ✨</h1>
+<h1 align="center">Shekhar Sharma — Portfolio Website</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Creative Designer • Artist</b>
+  <strong>Full Stack Developer • Creative Designer • Digital Artist</strong>
+</p>
+
+<p align="center">
+  A modern, high-performance personal portfolio built to showcase professional experience,
+  technical expertise, and creative work with a premium user experience.
 </p>
 
 <p align="center">
   <a href="https://imshekhar17.github.io">
-    <img src="https://img.shields.io/badge/Live-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shekhar-sharma-061b20228/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shekhar_Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Shekhar%20Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/ImShekhar17">
     <img src="https://img.shields.io/badge/GitHub-ImShekhar17-111?style=for-the-badge&logo=github"/>
@@ -22,50 +27,53 @@
 
 ---
 
-## 🌟 About The Project
+## 📌 Overview
 
-This is my **personal portfolio website**, designed to showcase my:
+This repository contains the source code for my **personal portfolio website** — a clean, elegant, and fully responsive web experience designed to reflect both **technical excellence** and **creative aesthetics**.
 
-- 💼 Professional experience  
-- 🚀 Real-world projects  
-- 🧠 Technical skills  
-- 🎨 Creative services  
-- 📞 Social & contact details  
+The portfolio highlights:
 
-The portfolio is **fully responsive**, **SEO-optimized**, and includes **smooth animations**, **dark/light theme**, and **modern UI effects**.
+- Professional background and experience  
+- Real-world projects with live demos  
+- Technical skills and services  
+- Creative design work  
+- Contact and social presence  
 
----
-
-## 🔥 Key Features
-
-✨ Clean & Modern UI  
-🌗 Dark / Light Mode Toggle  
-🎯 Project Showcase with Live Links  
-🧑‍💻 Skills & Services Section  
-⏱️ Dynamic Experience Counter  
-📱 Fully Responsive (Mobile First)  
-⚡ Smooth Animations & Scroll Effects  
-🎉 Confetti Celebration Effects  
+Built with performance, accessibility, and scalability in mind.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Key Features
 
-### 🚀 Frontend
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Remix Icons**
-
-### ⚙️ Libraries & Tools
-- ScrollReveal.js
-- Canvas Confetti
-- Typed Text Animation
-- Git & GitHub
+- **Modern, Minimal UI** with premium visual aesthetics  
+- **Dark / Light Theme Toggle** with smooth transitions  
+- **Interactive Project Showcase** with live previews  
+- **Dynamic Experience Counter**  
+- **Smooth Scroll Animations & Micro-interactions**  
+- **Confetti Celebration Effects** for enhanced engagement  
+- **Mobile-First, Fully Responsive Design**  
+- **SEO-Optimized Structure**  
+- **Optimized Assets for Fast Load Times**
 
 ---
 
-## 📂 Project Structure
+## 🧑‍💻 Tech Stack
+
+### Frontend
+- **HTML5** — Semantic & accessible markup  
+- **CSS3** — Custom styling, animations, and responsiveness  
+- **JavaScript (ES6+)** — Interactivity and dynamic behavior  
+- **Remix Icons** — Modern iconography  
+
+### Libraries & Tools
+- **ScrollReveal.js** — Scroll-based animations  
+- **Canvas Confetti** — Interactive celebration effects  
+- **Typed.js / Typed Text Animation** — Dynamic text effects  
+- **Git & GitHub** — Version control and deployment  
+
+---
+
+## 📁 Project Structure
 
 ```bash
 ├── assets
